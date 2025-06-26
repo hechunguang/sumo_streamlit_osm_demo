@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <net-file value="simple.net.xml"/>
+        <route-files value="route.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="100"/>
+    </time>
+    <output>
+        <fcd-output value="fcd_output.xml"/>
+    </output>
+</configuration>
